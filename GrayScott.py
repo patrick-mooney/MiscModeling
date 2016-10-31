@@ -1,4 +1,5 @@
 # Gray-Scott model
+# Would be good exercise to parallelize this script
 
 import numpy as np
 import matplotlib.pyplot as plt
